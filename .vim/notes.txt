@@ -1,0 +1,111 @@
+Basic Editing Commands:
+:e! #Wipe all edits and return to last saved version.
+    #Numbers are used to multiply commands. Ex: 6j moves down 6 lines.
+a   #Append text
+A   #Append to end of current line.
+I   #Insert at the beginning of current line.
+o   #Open blank line below cursor for text. (lowercase letter 'o')
+O   #Open blank line above cursor for text. (uppercase letter 'O')
+c   #Change text. Combined with movement commands like cw, c2b, c$, and c0
+cc  #Clear line and enter insert.
+C   #Delete rest of line and enter insert. 
+d   #Delete. Same setup as c.
+D   #Delete rest of line.
+dd  #Delete entire line.
+y   #Yank (Copy). Also the same setup.
+Y/yy#Two commands that both copy the entire line.
+r   #Replace single character. Does not enter insert mode.
+R   #Overstrike. Replace character by charater for up to a full line.
+s   #Substitute. Can be preceeded by a number of characters to replace. Enters insert.
+S   #Delete entire line and enter insert.
+~   #Change case of character. Can have a numeric prefix for number of characters.
+x   #Delete the character under the cursor and chars to the right if a numeric prefix is provided.
+X   #Delete characters to the left of the cusor, as many as the numeric prefix.
+u   #Undo
+U   #Restore line to its pristine state.
+p   #Put. Numeric prefix describes which buffer to paste after the cursor with 1 being the most recent. dd places its deleted contents on a buffer. This is not the case with deletions of line portions.
+P   #Same as p, but buffer is pasted before the cursor.
+xp  #Transpose (or swap) two characters.
+.   #Repeat last command. (including inserts)
+ea  #Append to the end of next work.
+J   #Join two lines.
+
+Navigation:
+^F  #Scroll down one screen.
+^B  #Scroll up one screen.
+^B  #Scroll down half screen.
+^U  #Scroll up half screen.
+^E  #Scroll up one line.
+^Y  #Scroll down one line.
+z   #z by itself moves current line to top of screen, z. moves current line to center of screen, z- moves current line to bottom of screen, and a numeric prefix sets the current line.
+H   #Move to top line on screen. Numeric prefix to move that many lines below the top
+M   #Move to middle line on screen.
+L   #Move to last line on screen. Numeric prefix to move that many lines above the bottom.
+↵/+ #Move to first character on next line.
+-   #Move to first character on previous line.
+0   #Move to beginning of line.
+$   #Move to end of line.
+^   #Move to first nonblank character of current line.
+n|  #Move to column n of current line.
+G   #Go to line specified in numeric prefix.
+``  #Go back to last edit.
+''  #Go back to beginning of line of last edit.
+
+Movement by text blocks:
+e   #Move to end of word.
+E   #Move to end of word (ignore punctuation).
+(   #Move to beginning of current sentence.
+)   #Move to beginning of next sentence.
+{   #Move to beginning of current paragraph.
+[[  #Move to beginning of current section.
+]]  #Move to beginning of next section.
+
+Marking your place:
+m@  #Marks current positon with letter @.
+'@  #Moves to first character of line marked by @.
+`@  #Moves to position marked by @.
+``  #Returns to exact position of last marked.
+''  #Returns to the beginning of the line of last marked positon.
+
+Searching:
+/   #Search forward.
+?   #Search backward.
+n   #Repeat search in same direction.
+N   #Repeat search in opposite direction.
+fx  #Move cursor to next instance of x.
+Fx  #Move cursor to previous instance of x.
+tx  #Move cursor to the character before the next instance of x.
+Tx  #Move cursor to the character after the next instance of x.
+
+System Tools:
+^L  #Redraw the screen.
+
+Buffers:
+-Deleteing whole lines (dd) places the line on buffer 1 of 9.
+	-Access buffer number # using "#p
+	-Try next buffer incrementally using u.
+-Yanks are stored in buffers labeled a->z. Store on buffer letter @ using "@[Optional #]y[length]
+	-Access buffer letter @ using "@p
+	-Can also delete into these buffers using the same syntax.
+
+ex Commands:
+:w   #Writes to file but doesn't exit.
+:q   #Quit
+:wq  #Force write and quit.
+:readFILENAME or :rFILENAME   #Read file FILENAME into editor and insert it after cursor
+
+Editing Multiple Files:
+vi F1 F2   #Open both F1 and F2 for editing
+:n 		   #Advance from F1 to F2
+:ar or :args       #List file arguments given to vim
+:rewind or :rew    #Reset file
+:eFILE 			   #Open and switch to FILE
+%          #Refers to current file.
+#          #Refers to nearest other file
+
+
+Tricks:
+i, I, a, A, r can take numeric prefixes to insert repeated text.
+	Ex. 20i*<>ESC = *<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>*<>   
+Searching can be combined with changing.
+	Ex. d?move
