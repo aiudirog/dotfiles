@@ -1,0 +1,22 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "spellchecker/main": true,
+    "ruler/main": true,
+    "vim_binding/vim_binding": true
+  },
+  "ruler_column": [
+    "79",
+    "72"
+  ],
+  "ruler_color": [
+    "#00ffc5",
+    "#9e9e9e"
+  ],
+  "CodeCell": {
+    "cm_config": {
+      "autoCloseBrackets": false
+    }
+  }
+}
