@@ -1,0 +1,9 @@
+rofi.font: FiraCode-Regular 20
+rofi.opacity: 0.1
+rofi.color-window: #000000, #800000, #DDDDDD
+rofi.color-normal: argb:00101218, #bfbfbf, argb:00c06c84, argb:20101218, #800000
+rofi.lines: 10
+rofi.bw: 3
+rofi.show-icons: false
+rofi.matching: fuzzy
+

@@ -1,0 +1,46 @@
+[options]
+font = FiraCode Regular 11
+font = Monospace 11
+font = Terminus (TTF) 11
+font = Droid Sans Mono 11
+
+
+[colors]
+# special
+foreground      = #ffffff
+foreground_bold = #ffffff
+cursor          = #ffffff
+background      = rgba(0,0,0,0.9)
+
+# black
+color0  = #000000
+color8  = #e0e0e0
+
+# red
+color1  = #9f0000
+color9  = #9f6060
+
+# green
+color2  = #af0000
+color10 = #af6060
+
+# yellow
+color3  = #bf0000
+color11 = #bf6060
+
+# blue
+color4  = #cf0000
+color12 = #cf6060
+
+# magenta
+color5  = #df0000
+color13 = #df6060
+
+# cyan
+color6  = #ef0000
+color14 = #ef6060
+
+# white
+color7  = #ff0000
+color15 = #ff6060
+
