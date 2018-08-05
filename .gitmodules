@@ -16,3 +16,6 @@
 [submodule ".vim/bundle/slimv"]
 	path = .vim/bundle/slimv
 	url = https://github.com/kovisoft/slimv.git
+[submodule ".vim/bundle/vim-illuminate"]
+	path = .vim/bundle/vim-illuminate
+	url = https://github.com/RRethy/vim-illuminate.git
