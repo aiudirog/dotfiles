@@ -3,7 +3,7 @@
 	url = https://github.com/robbyrussell/oh-my-zsh.git
 [submodule ".vim/bundle/nerdcommenter"]
 	path = .vim/bundle/nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule ".vim/bundle/YouCompleteMe"]
 	path = .vim/bundle/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
@@ -19,3 +19,42 @@
 [submodule ".vim/bundle/vim-illuminate"]
 	path = .vim/bundle/vim-illuminate
 	url = https://github.com/RRethy/vim-illuminate.git
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule ".vim/bundle/indentpython.vim"]
+	path = .vim/bundle/indentpython.vim
+	url = https://github.com/vim-scripts/indentpython.vim.git
+[submodule ".vim/bundle/powerline"]
+	path = .vim/bundle/powerline
+	url = https://github.com/Lokaltog/powerline.git
+[submodule ".vim/bundle/SimpylFold"]
+	path = .vim/bundle/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule ".vim/bundle/vim-flake8"]
+	path = .vim/bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule ".vim/bundle/vim-fugitive"]
+	path = .vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/bundle/vim-nerdtree-tabs"]
+	path = .vim/bundle/vim-nerdtree-tabs
+	url = https://github.com/aiudirog/vim-nerdtree-tabs.git
+[submodule ".vim/bundle/Vundle.vim"]
+	path = .vim/bundle/Vundle.vim
+	url = https://github.com/gmarik/Vundle.vim.git
+[submodule ".vim/bundle/vim-lastplace"]
+	path = .vim/bundle/vim-lastplace
+	url = https://github.com/aiudirog/vim-lastplace.git
+[submodule ".vim/bundle/python-mode"]
+	path = .vim/bundle/python-mode
+	url = https://github.com/python-mode/python-mode.git
+[submodule ".vim/bundle/vim-airline"]
+	path = .vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule ".vim/bundle/vim-airline-themes"]
+	path = .vim/bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
