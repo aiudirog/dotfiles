@@ -1,0 +1,14 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CheckinProject@NavBarToolbar" count="13" />
+      <entry action="Debug@NavBarToolbar" count="3" />
+      <entry action="Rerun@DebuggerToolbar" count="8" />
+      <entry action="Resume@DebuggerToolbar" count="11" />
+      <entry action="StepOver@DebuggerToolbar" count="2" />
+      <entry action="Stop@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="2" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="3" />
+    </counts>
+  </component>
+</application>

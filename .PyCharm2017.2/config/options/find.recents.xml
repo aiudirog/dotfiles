@@ -1,0 +1,79 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>model_type</find>
+      <find>drag_and_drop_files</find>
+      <find>contribution-dropzone</find>
+      <find>media_type</find>
+      <find>label</find>
+      <find>isEmptyObject</find>
+      <find>static</find>
+      <find>(?&lt;!s)static(files)?</find>
+      <find>(?&lt;!s)(?&lt;!-)static(files)?(method)?</find>
+      <find>sstatic[^\s]</find>
+      <find>sstatic }</find>
+      <find>sstatic [^\&quot;\'%]</find>
+      <find>text-left</find>
+      <find>header-menu</find>
+      <find>header-menujjjjj</find>
+      <find>transi</find>
+      <find>glyphicon-remove</find>
+      <find>saveFileDialog</find>
+      <find>grouping</find>
+      <find>\{% if current_page == .*%}.*</find>
+      <find>\{% if current_page == .*%}.*\{%.*%}</find>
+      <find>cropperIcons</find>
+      <find>tn</find>
+      <find>blank=True, null=True</find>
+      <find>slug</find>
+      <find>save</find>
+      <find>change</find>
+      <find>settings.MEDIA_ROOT</find>
+      <find>super</find>
+      <find>ManyToManyField\(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$this</replace>
+      <replace>my_account</replace>
+      <replace>{{ form.prefix }}</replace>
+      <replace>#{$prop}</replace>
+      <replace>$opts</replace>
+      <replace>model</replace>
+      <replace>name</replace>
+      <replace>pageParams.blur = false</replace>
+      <replace>sp</replace>
+      <replace>Contributions</replace>
+      <replace>{{</replace>
+      <replace>}}</replace>
+      <replace>contributions</replace>
+      <replace>nsembles</replace>
+      <replace>nsemble</replace>
+      <replace>ngineers</replace>
+      <replace>file</replace>
+      <replace>fileset</replace>
+      <replace>col-xs-12</replace>
+      <replace>GalleryImageModel</replace>
+      <replace>VideoFileModel</replace>
+      <replace>FileModel</replace>
+      <replace>model.media_format.lower</replace>
+      <replace>media_format</replace>
+      <replace>sstatic</replace>
+      <replace>sstatic %}</replace>
+      <replace>sstatic &quot;</replace>
+      <replace />
+      <replace>**b_n</replace>
+      <replace>os.path.abspath(settings.MEDIA_ROOT)</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>/media/Storage/Dropbox/A-Programming Projects/Checkers-Over-IP</dir>
+      <dir>$USER_HOME$/workspace/JHDB/static</dir>
+      <dir>/usr/lib/python3.5/site-packages/Django-1.10.dev20160308203959-py3.5.egg/django</dir>
+      <dir>$USER_HOME$/workspace/JHDB/jhdb_globals/migrations</dir>
+      <dir>$USER_HOME$/workspace/JHDB/jhdb_globals/static/jhdb_globals/scss</dir>
+      <dir>$USER_HOME$/workspace/JHDB/Contributors</dir>
+      <dir>$USER_HOME$/workspace/JHDB/jhdb_globals</dir>
+      <dir>$USER_HOME$/workspace/JHDB/Contributors/templates/Contributors/contributor_manage/formsets</dir>
+      <dir>$USER_HOME$/workspace/JHDB</dir>
+    </dirStrings>
+  </component>
+</application>

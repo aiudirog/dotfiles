@@ -1,0 +1,230 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="Checkers Over IP 2.0" values="ECMAScript 5.1" collectionTime="1468774340141" />
+      <project id="WPI_SAE_Website" values="ECMAScript 5.1" collectionTime="1489014847411" />
+      <project id="Cowlagi-MQP-2018" values="ECMAScript 5.1" collectionTime="1508980232084" />
+      <project id="udl" values="ECMAScript 5.1" collectionTime="1458749604270" />
+      <project id="Merrifield" values="ECMAScript 5.1" collectionTime="1487633661380" />
+      <project id="JHDB" values="ECMAScript 5.1" collectionTime="1502744464395" />
+      <project id="mysite" values="ECMAScript 5.1" collectionTime="1456897005821" />
+      <project id="Arc-Dark-Custom" values="ECMAScript 5.1" collectionTime="1483382766640" />
+      <project id="libdlo-0.1.2" values="ECMAScript 5.1" collectionTime="1458673968848" />
+      <project id="IQP" values="ECMAScript 5.1" collectionTime="1497125491405" />
+    </group>
+    <group name="module type">
+      <project id="ClassSignerUpper" values="PYTHON_MODULE" collectionTime="1442335772022" />
+      <project id="Merrifield" values="PYTHON_MODULE" collectionTime="1487633661309" />
+      <project id="WPI_SAE_Website" values="PYTHON_MODULE" collectionTime="1489014847143" />
+      <project id="JHDB" values="PYTHON_MODULE" collectionTime="1502744464001" />
+      <project id="mysite" values="PYTHON_MODULE" collectionTime="1456897005777" />
+      <project id="udl" values="PYTHON_MODULE" collectionTime="1458749603655" />
+      <project id="LinAlg2071" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="libdlo-0.1.2" values="PYTHON_MODULE" collectionTime="1458673968004" />
+      <project id="IPCheckers" values="PYTHON_MODULE" collectionTime="1446435870874" />
+      <project id="Cowlagi-MQP-2018" values="PYTHON_MODULE" collectionTime="1508980231824" />
+      <project id="pyqt5-drill-writer" values="PYTHON_MODULE" collectionTime="1454013954485" />
+      <project id="Arc-Dark-Custom" values="PYTHON_MODULE" collectionTime="1483382766495" />
+      <project id="IQP" values="PYTHON_MODULE" collectionTime="1497125491162" />
+      <project id="Checkers Over IP 2.0" values="PYTHON_MODULE" collectionTime="1468774339674" />
+    </group>
+    <group name="vcs">
+      <project id="Checkers Over IP 2.0" values="Git" collectionTime="1468774339673" />
+      <project id="WPI_SAE_Website" values="Git" collectionTime="1489014847142" />
+      <project id="Cowlagi-MQP-2018" values="Git" collectionTime="1508980231823" />
+      <project id="JHDB" values="Git" collectionTime="1502744463999" />
+      <project id="pyqt5-drill-writer" values="Git" collectionTime="1454013954469" />
+      <project id="IPCheckers" values="Git" collectionTime="1446435870873" />
+      <project id="IQP" values="Git" collectionTime="1497125491160" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="JHDB" values="data.commit.count.1K+,data.users.count.1+,data.branches.count.1+,data.git.root.count.1" collectionTime="1502744464029" />
+      <project id="Cowlagi-MQP-2018" values="data.users.count.1+,data.commit.count.1+,data.git.root.count.1,data.branches.count.1+" collectionTime="1508980231861" />
+      <project id="IQP" values="data.users.count.1+,data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1497125491219" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="WPI_SAE_Website" values="Python.DjangoServer" collectionTime="1489014847143" />
+      <project id="Merrifield" values="Python.DjangoServer" collectionTime="1487633661309" />
+      <project id="JHDB" values="Python.DjangoServer,PythonConfigurationType" collectionTime="1502744464003" />
+      <project id="pyqt5-drill-writer" values="PythonConfigurationType" collectionTime="1454013954485" />
+      <project id="IPCheckers" values="PythonConfigurationType" collectionTime="1446435870874" />
+      <project id="IQP" values="Python.DjangoServer" collectionTime="1497125491163" />
+      <project id="LinAlg2071" values="PythonConfigurationType" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Checkers Over IP 2.0" values="PythonConfigurationType" collectionTime="1468774339674" />
+      <project id="JHDB" values="DjangoTestsConfigurationType,PythonConfigurationType" collectionTime="1502744464003" />
+      <project id="WPI_SAE_Website" values="DjangoTestsConfigurationType" collectionTime="1489014847143" />
+    </group>
+    <group name="file-type">
+      <project id="ClassSignerUpper" values="UNKNOWN,XML,PLAIN_TEXT,Python,HTML" collectionTime="1442335772097" />
+      <project id="Merrifield" values="Python,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1487633661379" />
+      <project id="WPI_SAE_Website" values="Images,ESLint file,JSON,CSS,SCSS,XML,Bash,HTML,CoffeeScript,PLAIN_TEXT,SQLite Database,UNKNOWN,Git file,Sass,SourceMap,Python,Markdown,JavaScript,YAML" collectionTime="1489014847177" />
+      <project id="JHDB" values="Git file,Images,Npm file,ReST,Sass,BuildoutCfg,C++,ESLint file,YAML,JSHint,Less,SCSS,Ini,SourceMap,JavaScript,JSON,HTML,JSHint file,ARCHIVE,Native,Perl,CSS,UNKNOWN,Python,XML,PLAIN_TEXT" collectionTime="1502744464024" />
+      <project id="mysite" values="Images,CSS,UNKNOWN,PLAIN_TEXT,XML,DATASOURCE_STORAGE,Python,HTML" collectionTime="1456897005791" />
+      <project id="udl" values="UNKNOWN,PLAIN_TEXT,C++,XML" collectionTime="1458749603773" />
+      <project id="LinAlg2071" values="XML,Native,Python,PLAIN_TEXT,UNKNOWN" collectionTime="0" />
+      <project id="libdlo-0.1.2" values="HTML,C++,Images,Native,PLAIN_TEXT,CSS,JavaScript,Locale,XML,UNKNOWN" collectionTime="1458673968124" />
+      <project id="IPCheckers" values="XML,Images,UNKNOWN,Python,PLAIN_TEXT" collectionTime="1446435870879" />
+      <project id="Cowlagi-MQP-2018" values="Python,PLAIN_TEXT" collectionTime="1508980231859" />
+      <project id="pyqt5-drill-writer" values="CSS,JavaScript,Python,Images,HTML,PLAIN_TEXT,UNKNOWN,XML,JSON,Native" collectionTime="1454013954548" />
+      <project id="Arc-Dark-Custom" values="CSS,PLAIN_TEXT,XML,Images" collectionTime="1483382766534" />
+      <project id="IQP" values="XML,PLAIN_TEXT,Git file,CSS,UNKNOWN,HTML,SourceMap,SQLite Database,JSON,ARCHIVE,JavaScript,Less,SCSS,Npm file,Images,Python,ESLint file" collectionTime="1497125491217" />
+      <project id="Checkers Over IP 2.0" values="UNKNOWN,PLAIN_TEXT,Python,Images" collectionTime="1468774339730" />
+    </group>
+    <group name="VCS Log">
+      <project id="Checkers Over IP 2.0" values="vcs.log.commit.count=105,vcs.log.git.root.count" collectionTime="1449020515514" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="Merrifield" values="SQLite/3.8.9" collectionTime="1487633661380" />
+      <project id="JHDB" values="PostgreSQL/9.3.14,PostgreSQL/9.6.3,PostgreSQL/9.5.6" collectionTime="1502744464396" />
+      <project id="mysite" values="PostgreSQL/9.1.20" collectionTime="1456897005821" />
+      <project id="IQP" values="SQLite/3.8.9" collectionTime="1497125491421" />
+    </group>
+    <group name="Docker Integration">
+      <project id="JHDB" values="docker.fileType.dockerfile.patterns.1,docker.accounts.total 0,docker.runConfigs.dockerfile 0,docker.accounts.machines 0,docker.accounts.registry.1-0,docker.accounts.total.1-0,docker.runConfigs.command 0,docker.runConfigs.total.1-0,docker.runConfigs.total 0,docker.runConfigs.publishAllPorts 0,docker.runConfigs.jsonFile 0,docker.fileType.dockerfile.patterns,docker.view.not-registered,docker.runConfigs.entrypoint 0,docker.runConfigs.compose 0,docker.runConfigs.debug 0,docker.accounts.registry 0,docker.runConfigs.image 0" collectionTime="1502744464413" />
+      <project id="Cowlagi-MQP-2018" values="docker.runConfigs.image 0,docker.runConfigs.publishAllPorts 0,docker.runConfigs.debug 0,docker.accounts.registry 0,docker.accounts.machines 0,docker.fileType.dockerfile.patterns,docker.view.not-registered,docker.runConfigs.jsonFile 0,docker.runConfigs.command 0,docker.accounts.total 0,docker.runConfigs.total.1-0,docker.accounts.registry.1-0,docker.fileType.dockerfile.patterns.1,docker.accounts.total.1-0,docker.runConfigs.dockerfile 0,docker.runConfigs.compose 0,docker.runConfigs.entrypoint 0,docker.runConfigs.total 0" collectionTime="1508980232102" />
+    </group>
+    <group name="py-packages">
+      <project id="JHDB" values="django-recaptcha,bleach-whitelist,setuptools,django-crequest,Django,user-agents,django_date_extensions,django-picklefield,selenium,google-api-python-client,python-memcached,ua-parser,gunicorn,Pillow,django-crispy-forms,mutagen,feedparser,django-admin-tools,bleach,psycopg2,imagesize,django-debug-toolbar,django-crontab,wheel,apiclient" collectionTime="1502744464154" />
+      <project id="WPI_SAE_Website" values="gunicorn,django-crispy-forms,django-crequest,Django,imagesize,Pillow,django-debug-toolbar,psycopg2" collectionTime="1489014847274" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="Merrifield" values="org.sqlite.JDBC" collectionTime="1487633661380" />
+      <project id="JHDB" values="org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver" collectionTime="1502744464396" />
+      <project id="mysite" values="org.postgresql.Driver" collectionTime="1456897005821" />
+      <project id="IQP" values="org.sqlite.JDBC" collectionTime="1497125491421" />
+    </group>
+    <group name="py-interpreter">
+      <project id="ClassSignerUpper" values="Python 3.4.0" collectionTime="1442335772100" />
+      <project id="Merrifield" values="Python 3.6.0" collectionTime="1487633661379" />
+      <project id="WPI_SAE_Website" values="Python 3.6.0" collectionTime="1489014847177" />
+      <project id="JHDB" values="Python 3.6.2" collectionTime="1502744464030" />
+      <project id="mysite" values="Python 3.5.0" collectionTime="1456897005803" />
+      <project id="udl" values="Python 3.5.1" collectionTime="1458749603809" />
+      <project id="LinAlg2071" values="Python 3.4.0" collectionTime="0" />
+      <project id="libdlo-0.1.2" values="Python 3.5.1" collectionTime="1458673968178" />
+      <project id="IPCheckers" values="Python 3.5.0" collectionTime="1446435870885" />
+      <project id="Cowlagi-MQP-2018" values="Python 3.6.2" collectionTime="1508980231861" />
+      <project id="pyqt5-drill-writer" values="Python 3.5.0" collectionTime="1454013954575" />
+      <project id="Arc-Dark-Custom" values="Python 3.5.2" collectionTime="1483382766535" />
+      <project id="IQP" values="Python 3.6.0" collectionTime="1497125491219" />
+      <project id="Checkers Over IP 2.0" values="Python 3.5.2" collectionTime="1468774339787" />
+    </group>
+    <group name="frameworks">
+      <project id="Merrifield" values="django" collectionTime="1487633661309" />
+      <project id="JHDB" values="django" collectionTime="1502744464001" />
+      <project id="IQP" values="django" collectionTime="1497125491162" />
+      <project id="WPI_SAE_Website" values="django" collectionTime="1489014847143" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Checkers Over IP 2.0" values="Project,Project" collectionTime="1468774340141" />
+      <project id="WPI_SAE_Website" values="Project,Directory,Project" collectionTime="1489014847411" />
+      <project id="Cowlagi-MQP-2018" values="Project" collectionTime="1508980232084" />
+      <project id="udl" values="Project,Project" collectionTime="1458749604270" />
+      <project id="Merrifield" values="Project,Project" collectionTime="1487633661380" />
+      <project id="JHDB" values="Project" collectionTime="1502744464395" />
+      <project id="mysite" values="Project,Project" collectionTime="1456897005821" />
+      <project id="Arc-Dark-Custom" values="Project,Project" collectionTime="1483382766640" />
+      <project id="libdlo-0.1.2" values="Project,Project" collectionTime="1458673968848" />
+      <project id="IQP" values="Project" collectionTime="1497125491405" />
+    </group>
+    <group name="Git">
+      <project id="Checkers Over IP 2.0" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.push.update.all.roots.enabled,data.local.branches.count.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1468774339823" />
+      <project id="WPI_SAE_Website" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1489014847276" />
+      <project id="Cowlagi-MQP-2018" values="data.remote.branches.count.1,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,data.local.branches.count.1,config.warn.about.detached.enabled" collectionTime="1508980231862" />
+      <project id="udl" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1458749603826" />
+      <project id="Merrifield" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1487633661379" />
+      <project id="JHDB" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.2+,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1502744464154" />
+      <project id="pyqt5-drill-writer" values="data.local.branches.count.1,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1454013954605" />
+      <project id="mysite" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1456897005803" />
+      <project id="Arc-Dark-Custom" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1483382766543" />
+      <project id="libdlo-0.1.2" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.force.push.enabled" collectionTime="1458673968198" />
+      <project id="IQP" values="data.local.branches.count.1,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled" collectionTime="1497125491220" />
+    </group>
+    <group name="images.ide.background">
+      <project id="WPI_SAE_Website" values="frame 0,editor 0" collectionTime="1489014847177" />
+      <project id="Cowlagi-MQP-2018" values="frame 0,editor 0" collectionTime="1508980231861" />
+      <project id="Merrifield" values="editor 0,frame 0" collectionTime="1487633661379" />
+      <project id="JHDB" values="frame 0,editor 0" collectionTime="1502744464030" />
+      <project id="Arc-Dark-Custom" values="editor 0,frame 0" collectionTime="1483382766535" />
+      <project id="IQP" values="editor 0,frame 0" collectionTime="1497125491219" />
+    </group>
+    <group name="vcs-options">
+      <project id="JHDB" values="commit.before.check.code.cleanup.disabled,commit.before.check.files.up.to.date.disabled,include.text.into.shelf.enabled,check.conflicts.in.background.disabled,commit.before.reformat.project.disabled,commit.before.reformat.file.disabled,commit.clear.initial.comment.disabled,show.changes.preview.disabled,perform.edit.in.background.enabled,commit.before.check.todo.enabled,changelist.make.new.active.disabled,perform.commit.in.background.enabled,offer.move.partially.committed.disabled,commit.use.right.margin.enabled,perform.update.in.background.enabled,commit.before.optimize.imports.disabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled,perform.add_remove.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,commit.before.check.code.smell.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,changelist.preselect.existing.disabled" collectionTime="1502744464000" />
+      <project id="Cowlagi-MQP-2018" values="commit.clear.initial.comment.disabled,offer.move.failed.committed.do_nothing_silently,include.text.into.shelf.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,changelist.preselect.existing.disabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,perform.edit.in.background.enabled,commit.before.check.code.smell.disabled,perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled,perform.commit.in.background.enabled,offer.move.partially.committed.disabled,commit.before.reformat.file.disabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled" collectionTime="1508980231824" />
+      <project id="IQP" values="commit.before.reformat.project.disabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,perform.add_remove.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,commit.before.check.files.up.to.date.disabled,offer.move.partially.committed.disabled,commit.before.reformat.file.disabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,perform.commit.in.background.enabled,include.text.into.shelf.enabled,commit.before.check.code.smell.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,show.changes.preview.disabled,commit.before.check.todo.enabled,changelist.make.new.active.disabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled" collectionTime="1497125491162" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Django" count="1" />
+      <entry feature="AbstractNewProjectStep.Pure Python" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="275" />
+      <entry feature="NewDirectoryProjectAction.Django" count="1" />
+      <entry feature="NewDirectoryProjectAction.Pure Python" count="4" />
+      <entry feature="OpenInBrowser.Chrome" count="2" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
+      <entry feature="debugger.attach.local" count="1" />
+      <entry feature="debugger.attach.local.Python Debugger" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Side-by-side viewer" count="3" />
+      <entry feature="diff.DiffSettings.Tool.Unified viewer" count="3" />
+      <entry feature="django.manage.py.in.project.root" count="1" />
+      <entry feature="execute.DjangoTestsConfigurationType.Coverage" count="1" />
+      <entry feature="execute.DjangoTestsConfigurationType.Debug" count="36" />
+      <entry feature="execute.DjangoTestsConfigurationType.Profiler" count="1" />
+      <entry feature="execute.DjangoTestsConfigurationType.Run" count="35" />
+      <entry feature="execute.Python.DjangoServer.ConcurrencyExecutor" count="1" />
+      <entry feature="execute.Python.DjangoServer.Coverage" count="7" />
+      <entry feature="execute.Python.DjangoServer.Debug" count="1260" />
+      <entry feature="execute.Python.DjangoServer.Run" count="93" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="99" />
+      <entry feature="execute.PythonConfigurationType.Run" count="1468" />
+      <entry feature="git.branch.checkout.local" count="6" />
+      <entry feature="git.branch.delete.local" count="3" />
+      <entry feature="ide.settings.Appearance" count="15" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.Django" count="4" />
+      <entry feature="ide.settings.Django/Jinja2_Template" count="10" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File_Status" count="6" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.File_Watchers" count="14" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.General" count="9" />
+      <entry feature="ide.settings.Gutter_Icons" count="2" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.Ignore_Files_Support" count="1" />
+      <entry feature="ide.settings.Images" count="1" />
+      <entry feature="ide.settings.Inspections" count="5" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Language_Defaults" count="2" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="2" />
+      <entry feature="ide.settings.Notifications" count="2" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Project_Interpreter" count="6" />
+      <entry feature="ide.settings.Project_Structure" count="10" />
+      <entry feature="ide.settings.Python" count="6" />
+      <entry feature="ide.settings.Python_External_Documentation" count="1" />
+      <entry feature="ide.settings.SCSS" count="1" />
+      <entry feature="ide.settings.Scopes" count="12" />
+      <entry feature="ide.settings.Spelling" count="3" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Vim_Emulation" count="6" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="431" />
+      <entry feature="python.console.local" count="22" />
+      <entry feature="terminal.linux" count="448" />
+      <entry feature="tips.of.the.day.next" count="2" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="vcs.log.HighlightNon-PickedCommits" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+      <entry feature="welcome.screen.null" count="5" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,34 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="test1" type="HTML" />
+      <mapping pattern="tests2" type="HTML" />
+      <mapping pattern="post-update" type="PLAIN_TEXT" />
+      <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern="zshrc" type="PLAIN_TEXT" />
+      <mapping pattern="migrate" type="PLAIN_TEXT" />
+      <mapping pattern="vimrc" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGES_MADE" type="PLAIN_TEXT" />
+      <mapping pattern="consolidate_migrations" type="PLAIN_TEXT" />
+      <mapping pattern="!CSS_FILES_ARE_AUTO_GENERATED_FROM_SCSS" type="PLAIN_TEXT" />
+      <mapping pattern="instructions" type="PLAIN_TEXT" />
+      <mapping pattern="New FIles" type="PLAIN_TEXT" />
+      <mapping pattern="force_update_git" type="PLAIN_TEXT" />
+      <mapping pattern="collectstatic" type="PLAIN_TEXT" />
+      <mapping ext="css, we use sass!" type="PLAIN_TEXT" />
+      <mapping ext="htmkl" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="qss" type="PLAIN_TEXT" />
+      <mapping ext="drl" type="PLAIN_TEXT" />
+      <mapping ext="timer" type="PLAIN_TEXT" />
+      <mapping ext="nginxconf" type="PLAIN_TEXT" />
+      <mapping pattern="constants" type="Python" />
+      <mapping pattern="globals" type="Python" />
+      <mapping pattern="Window" type="Python" />
+      <mapping pattern="GameBoard" type="Python" />
+      <mapping pattern="compile_static" type="Bash" />
+    </extensionMap>
+  </component>
+</application>

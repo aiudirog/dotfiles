@@ -1,0 +1,68 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.NoScratch" value="true" />
+    <property name="installation.uid" value="5bc7fd61-5792-4c91-b082-8d8d855e09b3" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/Cowlagi-MQP-2018&#10;/home/roger/workspace/IQP/db.sqlite3&#10;/home/roger/workspace/JHDB/compile_static&#10;/home/roger/workspace/WPI_SAE_Website/collectstatic&#10;/home/roger/workspace/IQP/AugmentedExhibit&#10;/home/roger/watchers.xml&#10;/home/roger/workspace/IQP/IQP/settings.py&#10;/home/roger/workspace/Merrifield/db.sqlite3&#10;/home/roger/workspace/Merrifield/Merrifield/settings.py&#10;/home/roger/workspace/Merrifield&#10;/home/roger/.ssh/id_rsa&#10;/usr/bin/python3&#10;/home/roger/.themes/Arc-Dark-Custom&#10;/home/roger/workspace/JHDB&#10;/home/roger/workspace/JHDB/collectstatic&#10;/media/Storage/Dropbox/WPI/Aerospace Structures/view-source_https___www.scribd.com_doc_284119988_C-T-Sun-Mechanics-of-Aircraft-Structures-Solution.html&#10;/home/roger/workspace/WPI_SAE_Website&#10;/home/roger/workspace/selenium/py/selenium/webdriver/support/expected_conditions.py&#10;/home/roger/.gem/ruby/2.3.0/bin/sass&#10;/home/roger/workspace/JHDB/manage.py&#10;/home/roger/workspace/udl&#10;/home/roger/Desktop/libdlo-0.1.2&#10;/usr/lib/python3.5/site-packages/Django-1.10.dev20160308203959-py3.5.egg&#10;/usr/lib/python3.5/site-packages/nested_admin&#10;/home/roger/workspace/JHDB/db.sqlite3&#10;/usr/lib/python3.5/site-packages/nested_admin/options.py&#10;/usr/lib/python3.5/site-packages/nested_admin/nested.py&#10;/usr/lib/python3.5/site-packages/nested_admin/templates/nesting/admin/inlines/tabular.html&#10;/usr/lib/python3.5/site-packages/nested_admin/templates/nesting/admin/includes/inline_tabular.html&#10;/usr/lib/python3.5/site-packages/Django-1.10.dev20160308203959-py3.5.egg/django/core/files/storage.py" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ColorChooser.RecentColors" value="171-0-2-255,,,138-0-0-255,,,186-0-0-255,,,115-125-132-255,,,131-142-150-255,,,204-204-204-255,,,102-0-0-255,,,255-0-0-255,,,73-81-90-255,,,188-212-236-255,,,206-206-206-255,,,87-0-0-255,,,113-0-0-255,,,23-0-0-255,,,80-80-80-255,,,200-200-200-255,,,203-203-203-255,,,226-223-214-255,,,194-191-182-255,,,25-87-158-255" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="null.splitter" value="0.3" />
+    <property name="INSPECTION_FILTER_HISTORY" value="comma&#10;last comma&#10;un&#10;unused&#10;&quot;New in 4&quot;" />
+    <property name="python.packaging.author" value="roger" />
+    <property name="python.packaging.author.email" value="" />
+    <property name="PLUGIN_FILTER" value="high&#10;web&#10;web browser&#10;django&#10;idear" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="PACKAGE_FILTER" value="googleapi&#10;apiclient&#10;pyqt" />
+    <property name="fileTypeChangedCounter" value="30" />
+    <property name="selected.color.option.type" value="SASS_IDENTIFIER" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="evlsprt3.5" value="14" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6458558" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="evlsprt3.6" value="10" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="" />
+    <property name="ideavim.statistics.timestamp" value="1508966406995" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesSCSS" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="evlsprt3.162" value="12" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="KEYMAP" value="code&#10;clean" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="evlsprt3.163" value="19" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6553846" />
+    <property name="evlsprt3.171" value="19" />
+    <property name="file.gist.reindex.count" value="33416" />
+    <property name="find.popup.splitter" value="0.50473183" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="evlsprt3.172" value="14" />
+    <property name="ts.lib.d.ts.version" value="2.4.1" />
+  </component>
+</application>

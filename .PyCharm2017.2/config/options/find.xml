@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Python Not Migrations" />
+    <option name="defaultScopeName" value="Python Not Migrations" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Python Not Migrations" />
+  </component>
+</application>

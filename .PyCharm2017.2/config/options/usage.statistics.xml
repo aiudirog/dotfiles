@@ -1,0 +1,18 @@
+<application>
+  <component name="UsagesStatistic" time="1510258581748" allowed="true" show-notification="false">
+    <group id="Look and Feel" priority="0.0" data="Linux - Darcula=1" />
+    <group id="UI Features" priority="0.0" data="Recent Files (30  50]=1,Toolbar + NavBar=1,Tabs Top=1,Line Numbers=1,Toolbar hidden=1,Nav Bar visible=1,Status bar visible=1,Tool Window buttons hidden=1" />
+    <group id="features counts" priority="0.0" data="ide.settings.File_Status=6,ide.settings.Appearance=1,ideaapp.started=16,ide.settings.Colors_&amp;_Fonts=1,tips.of.the.day.next=2,execute.PythonConfigurationType.Debug=5,ide.settings.Project_Structure=1,execute.PythonConfigurationType.Run=268,ide.settings.Inspections=2,ide.settings.Project_Interpreter=3,CreateFile.CreateFileAction=1,ide.settings.Spelling=1" />
+    <group id="file-type" priority="0.0" data="PLAIN_TEXT=3,Images=2,Python=3,UNKNOWN=3,XML=3,HTML=1,Native=1" />
+    <group id="module type" priority="0.0" data="PYTHON_MODULE=3" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
+    <group id="productivity" priority="0.0" data="editing.completion.replace=11,editing.completion.basic=62,editing.select.word=343,editing.completion.camelHumps=3,SearchEverywhere=2" />
+    <group id="py-interpreter" priority="0.0" data="Python 3.4.0=2,Python 2.7.6=1" />
+    <group id="run-configuration-type" priority="0.0" data="PythonConfigurationType=2" />
+    <group id="run-configuration-type-temp" priority="0.0" data="PythonConfigurationType=1" />
+    <group id="user.jdk" priority="0.0" data="Oracle Corporation 1.7=1" />
+    <group id="user.os.name" priority="0.0" data="Linux=1" />
+    <group id="user.os.version" priority="0.0" data="Linux Ubuntu 14.04.2 LTS  Trusty Tahr=1" />
+    <group id="vcs" priority="0.0" data="Git=1" />
+  </component>
+</application>

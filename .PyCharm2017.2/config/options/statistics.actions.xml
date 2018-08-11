@@ -1,0 +1,32 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$SelectAll" count="1" />
+      <entry action="$Undo" count="27" />
+      <entry action="Back" count="1" />
+      <entry action="CheckinProject" count="10" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="EditorBackSpace" count="27" />
+      <entry action="EditorChooseLookupItem" count="1" />
+      <entry action="EditorChooseLookupItemReplace" count="20" />
+      <entry action="EditorCopy" count="5" />
+      <entry action="EditorCut" count="4" />
+      <entry action="EditorDown" count="1" />
+      <entry action="EditorEnter" count="4" />
+      <entry action="EditorPaste" count="11" />
+      <entry action="EditorUnindentSelection" count="1" />
+      <entry action="Git.Add" count="1" />
+      <entry action="GotoTypeDeclaration" count="1" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="NewDir" count="2" />
+      <entry action="NewFile" count="1" />
+      <entry action="NewPythonFile" count="3" />
+      <entry action="OpenFile" count="1" />
+      <entry action="PasteMultiple" count="4" />
+      <entry action="RenameElement" count="2" />
+      <entry action="RevealIn" count="1" />
+      <entry action="Vcs.Push" count="4" />
+    </counts>
+  </component>
+</application>
