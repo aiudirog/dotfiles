@@ -99,6 +99,9 @@ modules-left = networkspeedup networkspeeddown
 modules-center = i3
 modules-right = temperature filesystem-slash filesystem-storage cpu memory
 
+tray-position = 
+padding-left = 2
+
 [bar/dvitop]
 inherit = bar/hdmitop
 monitor = ${env:MONITOR_DVI}
@@ -106,6 +109,8 @@ monitor = ${env:MONITOR_DVI}
 modules-left = xwindow
 modules-center = 
 modules-right = 
+
+tray-position = 
 
 [bar/dvibot]
 inherit = bar/hdmitop
@@ -115,6 +120,8 @@ bottom = true
 modules-left = 
 modules-center = i3
 modules-right = 
+
+tray-position = 
 
 [module/xwindow]
 type = internal/xwindow
