@@ -10,7 +10,7 @@ Plugin 'tmhedberg/SimpylFold'               " Better code folding
 Plugin 'vim-scripts/indentpython.vim'       " Better indentation
 Plugin 'Valloric/YouCompleteMe'             " Code completion
 " Plugin 'vim-syntastic/syntastic'            " Syntax checking, disabled because too slow
-Plugin 'python-mode/python-mode'            " Syntax Checking
+" Plugin 'python-mode/python-mode'            " Syntax Checking
 Plugin 'nvie/vim-flake8'                    " PEP8 Checking
 Plugin 'scrooloose/nerdcommenter'           " Better commenting
 Plugin 'scrooloose/nerdtree'                " File management
