@@ -294,7 +294,7 @@ bar-used-indicator =
 
 [module/wlan]
 type = internal/network
-interface = wlp33s0f3u2
+interface = ${env:WLAN_INTERFACE}
 interval = 3.0
 
 format-connected = <label-connected>

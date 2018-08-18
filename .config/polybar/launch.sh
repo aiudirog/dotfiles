@@ -6,7 +6,7 @@ killall -q polybar
 # Wait until the processes have been shut down
 while pgrep -x polybar >/dev/null; do sleep 1; done
 
-export WLAN_INTERFACE=wlp33s0f3u2
+export WLAN_INTERFACE=wlp32s0
 
 # Launch bar1 and bar2
 export MONITOR_HDMI="HDMI-A-0"
