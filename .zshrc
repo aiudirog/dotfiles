@@ -3088,4 +3088,4 @@ PATH="$PATH:/usr/bin/core_perl"
 TERM="xterm-256color"
 
 # screenfetch
-neofetch
+neofetch | lolcat
