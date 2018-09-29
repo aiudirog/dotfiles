@@ -3064,12 +3064,14 @@ alias ls='ls -h'
 alias zshrc='source ~/.zshrc'
 alias qt4build='echo "Making Project File..."; qmake-qt4 -project; echo;echo "QMake..."; qmake-qt4; echo;echo "Making...";make'
 
+alias game_nice='sudo renice -n -20 -p $(ps -eo pid,command | grep -i "overwatch\|witcher" | grep -v grep | awk "{print $1}")'
+
 
 source league.sh
 
 python () {
     if [[ -z $1 ]] ; then
-        command bpython
+        command ipython
     else
         command python "$@"
     fi
